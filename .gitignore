@@ -1,0 +1,20 @@
+logs
+
+nginx/*
+!nginx/README.md
+!nginx/examples
+!nginx/nginx-server.exe
+!nginx/nginx-server.xml
+
+# php
+php/*
+!php/README.md
+!php/php-server.exe
+!php/php-server.xml
+
+
+# root
+root/*
+!root/README.md
+!root/.gitkeep
+
